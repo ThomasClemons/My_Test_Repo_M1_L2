@@ -1,7 +1,7 @@
 # My_Test_Repo_M1_L2
 This is a test repo that I created for Module 1 exercise practice
 
-# Changes made at 6:25pm
+# Changes made at 6:56pm
 
 # Test Header (Header 1 size)
 
@@ -42,7 +42,12 @@ This is a test repo that I created for Module 1 exercise practice
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-| Paragraph | Text |
+| Table item 1 | Text 1 |
+| Table item 2 | Text 2 |
+| Table item ... | Text ... |
+| Table item xxxxxxxxxxxx | Text xxxxxxxxxxxxx |
+| Table item yyyyyyyy | Text yyyyy |
+| Table item Last | Text Last |
 
 **Highlighing**
 
@@ -51,7 +56,7 @@ I need to highlight these ==very important words==.
 **Task List**
 
 - [x] Task One
-- [ ] Task Two
+- [x] Task Two
 - [ ] Task Three
 
 **Term Definition**  
@@ -69,5 +74,7 @@ practice
 **Footnote**  
 
 Here's a sentence with a footnote. [^1]
+Here's another sentence with a footnote. [^2]
 
-[^1]: This footnote is the end of the file.
+[^1]: This is footnote 1.
+[^2]: This footnote 2 is the end of the file.
