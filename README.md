@@ -39,6 +39,7 @@ This is a test repo that I created for Module 1 exercise practice
 
 **Table**
 
+| ----------- | ----------- | ----------- |
 | Header | Title | Comment |
 | Table item 1 | Text 1 | |
 | Table item 2 | Text 2 | |
