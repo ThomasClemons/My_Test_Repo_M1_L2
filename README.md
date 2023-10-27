@@ -39,15 +39,13 @@ This is a test repo that I created for Module 1 exercise practice
 
 **Table**
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Table item 1 | Text 1 |
-| Table item 2 | Text 2 |
-| Table item ... | Text ... |
-| Table item xxxxxxxxxxxx | Text xxxxxxxxxxxxx |
-| Table item yyyyyyyy | Text yyyyy |
-| Table item Last | Text Last |
+| Header | Title | Comment |
+| Table item 1 | Text 1 | |
+| Table item 2 | Text 2 | |
+| Table item ... | Text ... | First Choice |
+| Table item xxxxxxxxxxxx | Text xxxxxxxxxxxxx | |
+| Table item yyyyyyyy | Text yyyyy | Second Choice |
+| Table item Last | Text Last | |
 
 **Highlighing**
 
@@ -73,8 +71,12 @@ practice
 
 **Footnote**  
 
-Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote. [^1]  
+
 Here's another sentence with a footnote. [^2]
 
+Here's another another sentence with a footnote. [^3]
+
 [^1]: This is footnote 1.
-[^2]: This footnote 2 is the end of the file.
+[^2]: This is footnote 2.
+[^3]: This footnote 3 is the end of the file.
