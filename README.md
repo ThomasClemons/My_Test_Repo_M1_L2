@@ -12,10 +12,12 @@ This is a test repo that I created for Module 1 exercise practice
 *Italics looks like this*
 
 **Hyperlink to Google:**
-[Google link:](https://www.google.com)
 
-*Here's an Image:*
-![Received SSH Warning when trying to clone repo](Image1.png)
+[Google link: ](https://www.google.com)
+
+*Received SSH Warning when trying to clone repo*
+
+![Image Here -- ](Image1.png)
 
 
 ***End of File***
